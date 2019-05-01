@@ -1,2 +1,4 @@
-# city_salaries_2018
-Salary data for City of Pittsburgh employees for calendar year 2018
+# PublicSource analysis of 2018 City of Pittsburgh employee salary data
+This is data and a Jupyter Notebook analysis of City of Pittsburgh employee salary data for the year 2018. 
+To read PublicSource's full reporting on this dataset, click below:
+https://www.publicsource.org/your-tax-dollars-at-work-explore-how-city-of-pittsburgh-paid-employees-in-2018/
